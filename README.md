@@ -34,6 +34,7 @@ If you have no password, leave that blank but do still include ''
 SOURCE db\schema.sql
 ```
 type 'quit' to exit the MySQL shell.
+
 5. Type 'npm run seed' to seed the database. Once this is completed type 'nodemon' to start the server. Or simply, 'node server.js'
 
 ## Usage
