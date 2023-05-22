@@ -12,7 +12,7 @@
 ## Description
   An example of e-commerce backend to demonstrate object-relational mapping. Using Express.js, Node.js, MySQL to perform API GET, POST, PUT, and DELETE routes.
 
-[Walkthrough video here]()
+[Walkthrough video here](https://drive.google.com/file/d/1OlsZG69KOeklAFA-0Sh6eioB2ZvyHUVb/view?usp=sharing)
 
 ## Installation
 Due to this being back-end only there is installation required.
